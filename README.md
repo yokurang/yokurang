@@ -28,4 +28,10 @@ Welcome to my GitHub profile! Here's a glimpse of my activity and contributions:
    <img align="center" src="https://readme-jokes.vercel.app/api" alt="Random Jokes">
 </a>
 
-Feel free to explore my projects and contributions. Let's connect and collaborate on interesting projects!
+## 📫 Contact Me:
+
+Feel free to reach out for collaborations or just a chat:
+
+<a href="mailto:yokurang@gmail.com">
+   <img src="https://img.shields.io/badge/Email-yokurang%40gmail.com-blue?style=flat-square&logo=gmail">
+</a>
