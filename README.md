@@ -1,6 +1,6 @@
 # Alan Matthew
 
-Welcome to my GitHub profile! I am a student studying Math & Computer Science with a minor in Economics.
+Welcome to my GitHub profile! I am a student studying Math & Computer Science, with a minor in Economics.
 
 Here's a glimpse of my activity and contributions:
 
