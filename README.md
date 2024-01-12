@@ -10,10 +10,6 @@ Welcome to my GitHub profile! Here's a glimpse of my activity and contributions:
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yokurang&layout=compact&theme=vue)](https://github.com/yokurang)
 
-## 📈 Contribution Graph:
-
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yokurang&bg_color=ffffff&color=333333&line=5e81ac&point=88c0d0)](https://github.com/yokurang)
-
 ## 🏆 GitHub Trophies:
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=yokurang&theme=flat)](https://github.com/yokurang)
