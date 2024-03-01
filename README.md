@@ -37,3 +37,7 @@ Feel free to reach out for collaborations or just a chat:
 <a href="mailto:yokurang@gmail.com">
    <img src="https://img.shields.io/badge/Email-yokurang%40gmail.com-blue?style=flat-square&logo=gmail">
 </a>
+
+<a href="mailto:alan.matthew.yk@gmail.com">
+   <img src="https://img.shields.io/badge/Email-alan.matthew.yk%40gmail.com-blue?style=flat-square&logo=gmail">
+</a>
