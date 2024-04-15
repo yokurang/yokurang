@@ -4,16 +4,21 @@ Hello! I'm Alan Matthew, a college student in Singapore majoring in math, comput
 
 Feel free to explore some aspects of my work:
 
-**GitHub Statistics:** Get insights into my coding activity.
+Certainly! Here's a version with improved spacing for better readability:
+
+**GitHub Statistics:**  
+Get insights into my coding activity.  
 ![GitHub Stats](https://myreadme.vercel.app/api/embed/yokurang?panels=userstatistics,toprepositories,toplanguages,commitgraph)
 
-**Profile Views:**
+**Profile Views:**  
 ![Profile Views](https://komarev.com/ghpvc/?username=yokurang&color=brightgreen)
 
-**LeetCode Statistics:** Review my problem-solving skills.
+**LeetCode Statistics:**  
+Review my problem-solving skills.  
 [![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=yokurang)](https://github.com/yokurang/github-readme)
 
-**Daily Humor:** Enjoy a daily programming joke!
+**Daily Humor:**  
+Enjoy a daily programming joke!  
 <a href="https://readme-jokes.vercel.app">
   <img align="center" src="https://readme-jokes.vercel.app/api" alt="Random Jokes">
 </a>
