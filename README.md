@@ -8,9 +8,6 @@ Hello! I'm Alan Matthew, a college student in Singapore majoring in math, comput
 **Profile Views:**  
 ![Profile Views](https://komarev.com/ghpvc/?username=yokurang&color=brightgreen)
 
-**LeetCode Statistics:**  
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=yokurang)](https://github.com/yokurang/github-readme)
-
 **Daily Humor:**  
 <a href="https://readme-jokes.vercel.app">
   <img align="center" src="https://readme-jokes.vercel.app/api" alt="Random Jokes">
