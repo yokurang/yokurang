@@ -1,9 +1,6 @@
 # Alan Matthew
 
-Hello! I'm Alan Matthew, a college student in Singapore majoring in math, computer science, and economics.
-
-**GitHub Statistics:**  
-![GitHub Stats](https://myreadme.vercel.app/api/embed/yokurang?panels=userstatistics,toprepositories,toplanguages,commitgraph)
+Hello! I'm Alan Matthew, a college student in Singapore majoring in math, computer science, and economics. I like quantitative trading and I am currently an algo dev @caladan.
 
 **Profile Views:**  
 ![Profile Views](https://komarev.com/ghpvc/?username=yokurang&color=brightgreen)
