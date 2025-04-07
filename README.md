@@ -1,6 +1,6 @@
 # Alan Matthew
 
-Just a softie engineer interested in quantitative finance, trading, and software engineering.
+Just a softie interested in quantitative finance, trading, and software engineering.
 
 **Profile Views:**  
 ![Profile Views](https://komarev.com/ghpvc/?username=yokurang&color=brightgreen)
