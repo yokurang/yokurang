@@ -1,4 +1,4 @@
-# Alan Matthew
+# Yokurang
 
 Interested in quantitative trading, research, and software engineering.
 
@@ -10,6 +10,3 @@ Interested in quantitative trading, research, and software engineering.
 You can reach me at:
 
 - **Email:** [yokurang@gmail.com](mailto:yokurang@gmail.com)
-- **Email:** [alan.matthew.yk@gmail.com](mailto:alan.matthew.yk@gmail.com)
-
-I am most responsive via **alan.matthew.yk@gmail.com**.
